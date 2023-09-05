@@ -1,0 +1,65 @@
+<svg width="4590" height="680" viewBox="0 0 4590 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Component 1">
+<g id="Property 1=Frame 1">
+<rect id="Rectangle 1" x="20" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 2" x="108" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 3" x="196" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 4" x="284" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 5" x="372" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 7" x="460" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 6" x="548" y="20" width="64" height="640" rx="32" fill="black"/>
+<rect id="Rectangle 8" x="636" y="20" width="64" height="640" rx="32" fill="black"/>
+</g>
+<g id="Property 1=Frame 2">
+<rect id="Rectangle 1_2" x="794" y="467" width="64" height="193" rx="32" fill="black"/>
+<rect id="Rectangle 2_2" x="882" y="173" width="64" height="487" rx="32" fill="black"/>
+<rect id="Rectangle 3_2" x="970" y="271" width="64" height="389" rx="32" fill="black"/>
+<rect id="Rectangle 4_2" x="1058" y="144" width="64" height="516" rx="32" fill="black"/>
+<rect id="Rectangle 5_2" x="1146" y="293" width="64" height="367" rx="32" fill="black"/>
+<rect id="Rectangle 7_2" x="1234" y="102" width="64" height="558" rx="32" fill="black"/>
+<rect id="Rectangle 6_2" x="1322" y="271" width="64" height="389" rx="32" fill="black"/>
+<rect id="Rectangle 8_2" x="1410" y="204" width="64" height="456" rx="32" fill="black"/>
+</g>
+<g id="Property 1=Frame 3">
+<rect id="Rectangle 1_3" x="1568" y="258" width="64" height="402" rx="32" fill="black"/>
+<rect id="Rectangle 2_3" x="1656" y="403" width="64" height="257" rx="32" fill="black"/>
+<rect id="Rectangle 3_3" x="1744" y="131" width="64" height="529" rx="32" fill="black"/>
+<rect id="Rectangle 4_3" x="1832" y="225" width="64" height="435" rx="32" fill="black"/>
+<rect id="Rectangle 5_3" x="1920" y="39" width="64" height="621" rx="32" fill="black"/>
+<rect id="Rectangle 7_3" x="2008" y="225" width="64" height="435" rx="32" fill="black"/>
+<rect id="Rectangle 6_3" x="2096" y="357" width="64" height="303" rx="32" fill="black"/>
+<rect id="Rectangle 8_3" x="2184" y="70" width="64" height="590" rx="32" fill="black"/>
+</g>
+<g id="Property 1=Frame 4">
+<rect id="Rectangle 1_4" x="2342" y="84" width="64" height="576" rx="32" fill="black"/>
+<rect id="Rectangle 2_4" x="2430" y="240" width="64" height="420" rx="32" fill="black"/>
+<rect id="Rectangle 3_4" x="2518" y="453" width="64" height="207" rx="32" fill="black"/>
+<rect id="Rectangle 4_4" x="2606" y="206" width="64" height="454" rx="32" fill="black"/>
+<rect id="Rectangle 5_4" x="2694" y="268" width="64" height="392" rx="32" fill="black"/>
+<rect id="Rectangle 7_4" x="2782" y="172" width="64" height="488" rx="32" fill="black"/>
+<rect id="Rectangle 6_4" x="2870" y="268" width="64" height="392" rx="32" fill="black"/>
+<rect id="Rectangle 8_4" x="2958" y="354" width="64" height="306" rx="32" fill="black"/>
+</g>
+<g id="Property 1=Variant5">
+<rect id="Rectangle 1_5" x="3116" y="466" width="64" height="194" rx="32" fill="black"/>
+<rect id="Rectangle 2_5" x="3204" y="172" width="64" height="488" rx="32" fill="black"/>
+<rect id="Rectangle 3_5" x="3292" y="333" width="64" height="327" rx="32" fill="black"/>
+<rect id="Rectangle 4_5" x="3380" y="440" width="64" height="220" rx="32" fill="black"/>
+<rect id="Rectangle 5_5" x="3468" y="250" width="64" height="410" rx="32" fill="black"/>
+<rect id="Rectangle 7_5" x="3556" y="398" width="64" height="262" rx="32" fill="black"/>
+<rect id="Rectangle 6_5" x="3644" y="125" width="64" height="535" rx="32" fill="black"/>
+<rect id="Rectangle 8_5" x="3732" y="315" width="64" height="345" rx="32" fill="black"/>
+</g>
+<g id="Property 1=Variant6">
+<rect id="Rectangle 1_6" x="3890" y="195" width="64" height="465" rx="32" fill="black"/>
+<rect id="Rectangle 2_6" x="3978" y="333" width="64" height="327" rx="32" fill="black"/>
+<rect id="Rectangle 3_6" x="4066" y="146" width="64" height="514" rx="32" fill="black"/>
+<rect id="Rectangle 4_6" x="4154" y="513" width="64" height="147" rx="32" fill="black"/>
+<rect id="Rectangle 5_6" x="4242" y="268" width="64" height="392" rx="32" fill="black"/>
+<rect id="Rectangle 7_6" x="4330" y="468" width="64" height="192" rx="32" fill="black"/>
+<rect id="Rectangle 6_6" x="4418" y="214" width="64" height="446" rx="32" fill="black"/>
+<rect id="Rectangle 8_6" x="4506" y="362" width="64" height="298" rx="32" fill="black"/>
+</g>
+<rect x="0.5" y="0.5" width="4589" height="679" rx="4.5" stroke="#9747FF" stroke-dasharray="10 5"/>
+</g>
+</svg>
