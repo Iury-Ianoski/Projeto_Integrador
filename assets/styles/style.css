@@ -1,0 +1,211 @@
+* {
+    padding: 0;
+    margin: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.cabecalho {
+    /* height: 10vh; */
+    border: 1px solid white;
+    display: flex;    
+    justify-content: center;
+}
+
+.cabecalho__logo {
+    padding: 0.5em;
+    width: 20%;
+    height: 20%;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    border: 1px solid white;
+    animation: replace 1s ease-in-out infinite;
+}
+
+
+.container__searchbox{
+    width: 50em;
+    height: 4em;
+    display: flex;
+    border-radius: 3em;
+    background-color:#b7d8d8;
+}
+
+.container__searchbox__input{
+    float:left;
+    width: 100%;
+    padding: 0.5em;
+    background-color:transparent;
+    font-size:20px;
+    border-radius: 3em;
+}
+
+.container__searchbox__input:focus{
+    outline: none;
+}
+
+.container__searchbox__icone{
+    float:right;
+    padding: 2.5em;
+    border: none;
+    background-color: transparent;
+    background-image: url(/assets/images/search_FILL0_wght400_GRAD0_opsz48.svg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.rodape__texto{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1em;
+}
+
+.rodape__link__icone {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+.component {
+    position: relative;
+}
+
+@keyframes replace {
+    0% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 1.svg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: 30%;
+    }
+    20% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 2.svg");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: 30%;
+    }
+    40% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 3.svg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: 30%;
+    }
+    60% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 4.svg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: 30%;
+    }
+    80% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 5.svg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: 30%;
+    }
+    100% {
+        background-image: url("/assets/images/Property\ 1=Frame\ 6.svg");
+        background-repeat: no-repeat; 
+        background-position: center center;
+        background-size: 30%;
+    }
+}
+
+/* artigo */
+
+.cabecalho__artigo {
+    /* height: 10vh; */
+    border: 1px solid white;
+    display: flex;    
+    justify-content: left;
+}
+
+.cabecalho__artigo__logo {
+    padding: 0.5em;
+    width: 15%;
+    height: 15%;
+}
+
+.conteudo__artigo {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+}
+
+.container__artigo {
+    width: 60%;
+    background-color: whitesmoke;
+    padding: 0 1em;
+}
+
+.container__artigo__banner{
+    position: relative;
+}
+
+.container__artigo__banner__imagem {
+    position: relative;
+    width: 100%;
+}
+
+.container__artigo__banner__textos {
+    position: absolute;
+    color: white;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 100%;
+}
+
+.container__artigo__banner__titulo {
+}
+
+.container__artigo__banner__subtitulo {
+}
+
+.container__artigo__conteudo {
+    text-align: justify;
+}
+
+
+.rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.rodape__texto{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 1em;
+}
+
+.rodape__link__icone {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+
+
