@@ -160,31 +160,27 @@ body {
     padding: 0 1em;
 }
 
-.container__artigo__banner{
-    position: relative;
-}
-
-.container__artigo__banner__imagem {
-    position: relative;
+.container__artigo__imagem {
     width: 100%;
 }
 
-.container__artigo__banner__textos {
-    position: absolute;
-    color: white;
-    bottom: 0;
-    background-color: rgb(0, 0, 0, 0.5);
-    width: 100%;
+.container__artigo__titulo {
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 0.1em;
 }
 
-.container__artigo__banner__titulo {
+.container__artigo__subtitulo {
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    padding-bottom: 1em;
 }
 
-.container__artigo__banner__subtitulo {
-}
-
-.container__artigo__conteudo {
+.container__artigo__texto {
     text-align: justify;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 
